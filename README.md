@@ -29,7 +29,7 @@ We use a Random Forest Classifier trained on the **Pima Indians Diabetes Dataset
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/iam-veeramalla/first-mlops-project.git
+git clone https://github.com/bittush8789/first-mlops-project.git
 cd first-mlops-project
 ```
 
